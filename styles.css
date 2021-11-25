@@ -1,0 +1,185 @@
+
+/* GLOBAL */
+body{
+    background-color: white;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+}
+
+.upper{
+    text-transform: capitalize;
+}
+
+#logo
+{
+    background-color: #352f41;
+    margin-bottom: 0px;
+    width: 100%;
+}
+#menu {
+    margin-top: 0px;
+    width: 100%;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+ul {
+    text-transform: uppercase;
+
+    background-color: #c8aa5e;
+    font-size: 80%;
+    font-weight: 400;
+    color: white;
+    list-style: none;
+    padding: 5%;
+    text-align: center;
+    margin: 0px;
+
+}
+
+.dropdown {
+    display: none;
+    background-color: white;
+    color: black;
+    font-weight: unset;
+    font-size: 75%;
+    margin: auto;
+    padding: 3%;
+
+}
+
+/* li {
+float: left;
+} */
+
+.dropnon:hover .dropdown{
+    display: block;
+
+}
+
+h1, h2 {
+    text-align: center;
+    color: white;
+    background-color: #352f41;
+    margin: 0px;
+    font-family: Lora, serif;
+    color: #c8aa5e;
+}
+
+h2 {
+    font-size: 100%;
+}
+
+h1 {
+    font-size: 150%;
+    font-style: italic;
+}
+
+div {
+    margin: 0px;
+
+}
+
+img {
+    max-width: 100%;
+}
+
+.title {
+    background: white;
+    font-weight: normal;
+    font-family: Lora, serif;
+    color: #676666;
+    text-transform: uppercase;
+}
+
+.text_content {
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.ralign {
+    text-align: left;
+
+}
+
+p{
+    text-align: justify;
+    color: #676666;
+    line-height: 22px;
+}
+
+.p2 {
+    color: #c8aa5e;
+    font-weight: normal;
+}
+
+a {
+    color: #c8aa5e;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.contacts, .contacts>p {
+    background-color: #352f41;
+    padding: 10%;
+    color: #c8aa5e;
+}
+
+/* GLOBAL END */
+
+/* Index page */
+
+.img_container {
+    position: relative;
+    text-align: left;
+    margin: 0px;
+}
+
+.ovr {
+    position: absolute;
+    background-color: rgba(53,47,65, 0.8);
+    padding: 5%;
+    color: #c8aa5e;
+    font-style: italic;
+    font-weight: normal;
+    font-family: Lora, serif;
+    width: 100%;
+    bottom: 8%;
+    margin-bottom: 0%;
+}
+
+.right_block{
+    float: top;
+    margin: 5%;
+}
+
+/* Index page END */
+@media only screen and (min-width: 480px){
+    body{
+        background-color: white;
+        font-family: 'Montserrat', sans-serif;
+    }
+
+    ul {
+        text-transform: uppercase;
+        background-color: #c8aa5e;
+        font-size: 80%;
+        font-weight: 400;
+        color: white;
+        list-style: none;
+    }
+
+/* li {
+float: left;
+} */
+
+.dropdown {
+    display: none;
+}
+
+h1, h2 {
+    text-align: center;
+
+}
+
+}
