@@ -57,6 +57,13 @@ float: left;
 
 }
 
+.ctr {
+    text-align: center ;
+    display: block;
+    margin: auto;
+    width: 100%;
+}
+
 h1, h2 {
     text-align: center;
     color: white;
@@ -123,7 +130,28 @@ a {
     background-color: #352f41;
     padding: 10%;
     color: #c8aa5e;
+    margin-top:75%;
 }
+
+
+
+.lp {
+    float: left;
+    width: 49%;
+    margin: 0.5%;
+    border: none;
+
+}
+
+.rp {
+    float: right;
+    width: 49%;
+    margin: 0.5%;
+    border: none;
+
+
+}
+
 
 /* GLOBAL END */
 
@@ -160,6 +188,8 @@ a {
         font-family: 'Montserrat', sans-serif;
     }
 
+
+
     ul {
         text-transform: uppercase;
         background-color: #c8aa5e;
@@ -167,6 +197,10 @@ a {
         font-weight: 400;
         color: white;
         list-style: none;
+    }
+
+    .white {
+        background-color: white;
     }
 
 /* li {

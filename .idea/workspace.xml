@@ -7,6 +7,7 @@
     <list default="true" id="4c88578a-618c-4b92-90e4-bee4441e435f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +66,8 @@
       <workItem from="1637845243172" duration="4000" />
       <workItem from="1637845259052" duration="3943000" />
       <workItem from="1637853608200" duration="9407000" />
-      <workItem from="1637863553961" duration="17000" />
+      <workItem from="1637863553961" duration="78000" />
+      <workItem from="1637909874029" duration="3318000" />
     </task>
     <task id="LOCAL-00001" summary="- Mobile index viewpage done">
       <created>1637863475699</created>
@@ -74,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637863475699</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="- map missing debugged">
+      <created>1637863613017</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637863613017</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +91,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="- Mobile index viewpage done" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Mobile index viewpage done" />
+    <MESSAGE value="- map missing debugged" />
+    <option name="LAST_COMMIT_MESSAGE" value="- map missing debugged" />
   </component>
 </project>
